@@ -9,11 +9,14 @@
 }
 .square{
 border: 1px solid black;
-height:60px;
-width:60px;
+/*height:60px;
+width:60px;*/
 box-sizing: border-box;
 }
 #reset-btn{
     height: 40px;
     width:100px;
+}
+#fill-toggle{
+    width:150px
 }
