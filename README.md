@@ -1,2 +1,2 @@
 # etch-a-sketch
-TOP's Foundation js project
+TOP's Foundation js project.
